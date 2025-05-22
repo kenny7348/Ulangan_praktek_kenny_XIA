@@ -89,3 +89,33 @@
     margin-top: 40px;
     
   }
+  .cosplayers {
+    margin-top: 60px;
+  }
+  .cosplayers h3 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 1.8rem;
+  }
+  .cosplayer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  .cosplayer-card {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  .cosplayer-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  .cosplayer-card h4 {
+    font-size: 1.1rem;
+    margin-top: 5px;
+  }
