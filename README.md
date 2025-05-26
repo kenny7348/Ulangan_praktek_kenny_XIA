@@ -7,6 +7,7 @@ fitur:
 * Beberapa cosplayer dan youtuber yang menghadiri acara
 * website yang simple
 * desain yang menarik
+
 pembuat:
   NAMA: kenny jordan
   KELAS: XIA
