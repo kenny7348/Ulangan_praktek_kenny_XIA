@@ -17,16 +17,6 @@
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     position: relative;
   }
-  header::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.5);
-    z-index: 1;
-  }
   header h1,
   header p {
     position: relative;
@@ -91,6 +81,7 @@
   }
   .cosplayers {
     margin-top: 60px;
+    margin-bottom: 60px;
   }
   .cosplayers h3 {
     text-align: center;
